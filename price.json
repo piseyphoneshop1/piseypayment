@@ -1,1 +1,16 @@
-
+{
+    "records": [
+        {
+            "id": "pr_msbw9lara9p0",
+            "date": "2026-08-02T05:00:00.000Z",
+            "productId": "P58",
+            "description": "iPhone 12 iDប្រើបាន",
+            "supplier": "Hea",
+            "quantity": 12,
+            "unitCost": 77,
+            "currency": "USD",
+            "totalCost": 924,
+            "note": "13 ដើម"
+        }
+    ]
+}
