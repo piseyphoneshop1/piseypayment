@@ -1,6 +1,30 @@
 {
     "records": [
         {
+            "id": "pr_msbwmuca7kzw",
+            "date": "2026-07-05T05:00:00.000Z",
+            "productId": null,
+            "description": "iPhone 12 iDប្រើបាន - បែក",
+            "supplier": "Hea",
+            "quantity": 6,
+            "unitCost": 65,
+            "currency": "USD",
+            "totalCost": 390,
+            "note": ""
+        },
+        {
+            "id": "pr_msbwmbdzuju2",
+            "date": "2026-07-05T05:00:00.000Z",
+            "productId": "P58",
+            "description": "iPhone 12 iDប្រើបាន",
+            "supplier": "Hea",
+            "quantity": 25,
+            "unitCost": 75,
+            "currency": "USD",
+            "totalCost": 1875,
+            "note": ""
+        },
+        {
             "id": "pr_msbwcg9667nl",
             "date": "2026-08-02T05:00:00.000Z",
             "productId": null,
