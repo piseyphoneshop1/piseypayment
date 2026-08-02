@@ -1,6 +1,18 @@
 {
     "records": [
         {
+            "id": "pr_msbwcg9667nl",
+            "date": "2026-08-02T05:00:00.000Z",
+            "productId": null,
+            "description": "iPhone 13 iD​ ប្រើបាន",
+            "supplier": "Hea",
+            "quantity": 6,
+            "unitCost": 115,
+            "currency": "USD",
+            "totalCost": 690,
+            "note": "ទិញ ៣ ដើមតែគាត់ដាក់មកថែម ៣ ដើម​ ហើយដក 12 អស់មួយដើមសល់ 12 តែ 12ដើមវិញ"
+        },
+        {
             "id": "pr_msbw9lara9p0",
             "date": "2026-08-02T05:00:00.000Z",
             "productId": "P58",
