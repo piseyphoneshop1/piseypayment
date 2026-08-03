@@ -126,6 +126,38 @@
                 "features": "មាន Scan",
                 "setting": "មិនជាប់ ID"
             }
+        ],
+        "P85": [
+            {
+                "id": "u_1785761075742_sq7nv",
+                "color": "ស",
+                "ram": null,
+                "storage": "32GB",
+                "grade": "A+",
+                "screenCondition": "អេក្រង់ Zin",
+                "backCondition": "ស្អាត",
+                "outerCondition": "ស្អាត",
+                "frontCamera": "ដំណើរការល្អ",
+                "backCamera": "ដំណើរការល្អ",
+                "batteryHealth": "100%",
+                "features": "មាន Scan",
+                "setting": "មិនជាប់ ID"
+            },
+            {
+                "id": "u_1785761097306_u3p8n",
+                "color": "ស",
+                "ram": null,
+                "storage": "32GB",
+                "grade": "A+",
+                "screenCondition": "អេក្រង់ Zin",
+                "backCondition": "ស្អាត",
+                "outerCondition": "ស្អាត",
+                "frontCamera": "ដំណើរការល្អ",
+                "backCamera": "ដំណើរការល្អ",
+                "batteryHealth": "100%",
+                "features": "មាន Scan",
+                "setting": "មិនជាប់ ID"
+            }
         ]
     }
 }
