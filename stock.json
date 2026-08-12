@@ -20,7 +20,8 @@
         "P94": 2,
         "P107": 7,
         "P108": 0,
-        "P109": 1
+        "P109": 1,
+        "P230": 6
     },
     "details": {
         "P84": [
@@ -204,6 +205,98 @@
                 "batteryHealth": "80%+",
                 "features": null,
                 "setting": "មិនជាប់ ID"
+            }
+        ],
+        "P230": [
+            {
+                "id": "u_1786531803986_vi39m",
+                "color": "ខ្មៅ",
+                "ram": null,
+                "storage": "64GB",
+                "grade": "B",
+                "screenCondition": "អេក្រង់ Zin",
+                "backCondition": "ស្អាត",
+                "outerCondition": "ស្មាមតិច",
+                "frontCamera": "ដំណើរការល្អ",
+                "backCamera": "ដំណើរការល្អ",
+                "batteryHealth": "50%+",
+                "features": "មាន Scan",
+                "setting": "ជាប់ ID ប្រើបាន"
+            },
+            {
+                "id": "u_1786531882407_0mmtv",
+                "color": "ក្រហម",
+                "ram": null,
+                "storage": "64GB",
+                "grade": "B",
+                "screenCondition": "អេក្រង់ Zin",
+                "backCondition": "ស្អាត",
+                "outerCondition": "ស្មាមតិច",
+                "frontCamera": null,
+                "backCamera": null,
+                "batteryHealth": "ថ្មថ្មី",
+                "features": "មាន Scan",
+                "setting": "មិនជាប់ ID"
+            },
+            {
+                "id": "u_1786531943428_m2l9d",
+                "color": "ស",
+                "ram": null,
+                "storage": "64GB",
+                "grade": "B",
+                "screenCondition": "អេក្រង់ Zin",
+                "backCondition": "ស្អាត",
+                "outerCondition": "ស្មាមតិច",
+                "frontCamera": "ដំណើរការល្អ",
+                "backCamera": "ដំណើរការល្អ",
+                "batteryHealth": "ថ្មថ្មី",
+                "features": "មាន Scan",
+                "setting": "ជាប់ ID ប្រើបាន"
+            },
+            {
+                "id": "u_1786532045615_sbybz",
+                "color": "ខ្មៅ",
+                "ram": null,
+                "storage": "64GB",
+                "grade": null,
+                "screenCondition": "អេក្រង់ Zin",
+                "backCondition": "ស្អាត",
+                "outerCondition": "ស្អាត",
+                "frontCamera": "ដំណើរការល្អ",
+                "backCamera": "ដំណើរការល្អ",
+                "batteryHealth": "ថ្មថ្មី",
+                "features": "មាន Scan",
+                "setting": "ជាប់ ID ប្រើបាន"
+            },
+            {
+                "id": "u_1786532122475_oeznj",
+                "color": null,
+                "ram": null,
+                "storage": "64GB",
+                "grade": "A",
+                "screenCondition": "អេក្រង់ Zin",
+                "backCondition": "ស្អាត",
+                "outerCondition": "ស្អាត",
+                "frontCamera": "ដំណើរការល្អ",
+                "backCamera": "ដំណើរការល្អ",
+                "batteryHealth": "ថ្មថ្មី",
+                "features": "មាន Scan",
+                "setting": "ជាប់ ID ប្រើបាន"
+            },
+            {
+                "id": "u_1786532176840_dn1bs",
+                "color": null,
+                "ram": null,
+                "storage": "64GB",
+                "grade": "B",
+                "screenCondition": "អេក្រង់ថ្មី",
+                "backCondition": "ស្អាត",
+                "outerCondition": "ស្អាត",
+                "frontCamera": "ដំណើរការល្អ",
+                "backCamera": "ដំណើរការល្អ",
+                "batteryHealth": "ថ្មថ្មី",
+                "features": "No Scan",
+                "setting": "ជាប់ ID ប្រើបាន"
             }
         ]
     }
