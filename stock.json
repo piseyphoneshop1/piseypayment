@@ -159,6 +159,51 @@
                 "batteryHealth": "80%+",
                 "features": "មាន Scan",
                 "setting": "ជាប់ ID ប្រើបាន"
+            },
+            {
+                "id": "u_1786531280548_4cz03",
+                "color": "ស",
+                "ram": null,
+                "storage": "64GB",
+                "grade": "A",
+                "screenCondition": "អេក្រង់ថ្មី",
+                "backCondition": "ស្អាត",
+                "outerCondition": "ស្អាត",
+                "frontCamera": "ដំណើរការល្អ",
+                "backCamera": null,
+                "batteryHealth": "50%+",
+                "features": "No Scan",
+                "setting": "ជាប់ ID ប្រើបាន"
+            },
+            {
+                "id": "u_1786531385856_6jhdy",
+                "color": "ខៀវ",
+                "ram": null,
+                "storage": "64GB",
+                "grade": "C",
+                "screenCondition": "អេក្រង់ថ្មី",
+                "backCondition": "ស្មាមតិច",
+                "outerCondition": "ស្មាមតិច",
+                "frontCamera": "ដំណើរការល្អ",
+                "backCamera": "ដំណើរការល្អ",
+                "batteryHealth": "80%+",
+                "features": "No Scan",
+                "setting": "ជាប់ ID ប្រើបាន"
+            },
+            {
+                "id": "u_1786531483242_485l6",
+                "color": "ខ្មៅ",
+                "ram": null,
+                "storage": "64GB",
+                "grade": "C",
+                "screenCondition": "អេក្រង់ថ្មី",
+                "backCondition": "បែកតិច",
+                "outerCondition": "ស្អាត",
+                "frontCamera": "ដំណើរការល្អ",
+                "backCamera": "ដំណើរការល្អ",
+                "batteryHealth": "80%+",
+                "features": null,
+                "setting": "មិនជាប់ ID"
             }
         ]
     }
